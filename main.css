@@ -5,3 +5,11 @@
 .container {
     text-align: center;
 }
+
+input {
+    margin: 10px 0;
+}
+
+span {
+    padding: 0 10px;
+}
